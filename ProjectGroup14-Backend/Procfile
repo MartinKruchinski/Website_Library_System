@@ -1,0 +1,1 @@
+web: java -jar ProjectGroup14-Backend/build/libs/ProjectGroup14-Backend-0.0.1-SNAPSHOT.jar
