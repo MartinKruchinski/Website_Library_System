@@ -1,6 +1,6 @@
 # Website_Library_System
 
-Design of website with the following description, using vue.js:
+Design of website with the following description, using vue.js for the frontend and Android studio for the app:
 
 The library of a small town needs your help to design a website and app to support their users. The library provides its community with access to books, movies, and music albums — all in physical form. The library would like the users to be able to browse the available titles, reserve them, and then pick them up afterwards. Some items such as newspapers and an archive can also be browsed, but not reserved or checked out. Users can checkout items for a specific period, after which the item must be either renewed or returned. In addition, the library can be used for events and booked by members of the community.
 
